@@ -16,3 +16,6 @@ natural-language queries about topics like sports, health, politics, and technol
 If no meaningful match is found, it gracefully informs the user. The system is interactive and runs in the terminal, with an option 
 to exit by typing "exit." This project showcases how simple NLP techniques can be applied to build a context-aware, keyword-driven chatbot.
 
+OUTPUT : 
+https://github.com/user-attachments/assets/bfac19f8-cb5c-488e-a310-cf85b15b616e
+
